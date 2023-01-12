@@ -1,4 +1,4 @@
-# real-timeCharacterCounter
+# real-time Character Counter
 This is a study aiming for making some practice with HTML-CSS-JavaScript.
 In this tutorial we learned basically;
 
